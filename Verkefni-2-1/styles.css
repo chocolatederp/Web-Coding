@@ -1,0 +1,32 @@
+body {
+    max-width: 50em;
+    margin: 1em auto; /* top+bottom og left+right */
+    border: 1.5px solid white;
+    padding: 1em;
+    background-color: black;
+    color:white;
+    font-family:"Comic Sans MS" ;
+    line-height: 1.5;
+}
+
+h1 {
+    color:cyan;
+}
+ul li {
+    color:blue;
+}
+ol li {
+    color:lightblue;
+}
+.poem {
+    color: darkgreen;
+    font-style: italic;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+a {
+    color: yellow;
+}
